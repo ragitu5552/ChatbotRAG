@@ -1,0 +1,312 @@
+{
+    "academic_options": {
+        "double_major": [
+            {
+                "question": "What is a Double Major?",
+                "answer": "A Double Major allows all eligible, undergraduate students to earn a second major in a branch that is different from the B.Tech(Hons.)/B.S.(Hons.) branch in which he/she takes admission. For example, a student who takes admission in B.Tech (Hons.) in Electrical Engineering can earn a Double Major, say, in Computer Science and Engineering, or a student who takes admission in B.S(Hons.) in Physics can earn a Double Major, say, in Electronics and Electrical Communications Engineering."
+            },
+            {
+                "question": "Who can offer a Double Major?",
+                "answer": "Any academic unit including departments, centres and schools can offer the Double Major programs."
+            },
+            {
+                "question": "What is the number of seats in each Double Major program?",
+                "answer": "In each academic year, the academic units can specify the maximum number of seats for Double Major program along with any other appropriate selection criteria. The minimum number of seats offered will be 10 % of the sanctioned UG seat strength or 10 seats, whichever is minimum."
+            },
+            {
+                "question": "What are the curricular structure for a Double Major?",
+                "answer": "The Double Major curriculum consists of:\n- Core subjects (theory and sessional/laboratory)\n- Depth Electives from the respective academic unit or other units\n- A project work of 3 credits or a substitute Depth Elective course of 3-4 credits"
+            },
+            {
+                "question": "How many total credits are required for a Double Major?",
+                "answer": "The total number of credits required for a secondary Double Major is 40-48, which includes:\n- At least 27 credits for theory\n- 3 credits for the project or substitute Depth Elective course\n- 8 credits for sessional subjects"
+            },
+            {
+                "question": "Can Double Major credits overlap with the primary degree course (B.Tech/B.S.) credits?",
+                "answer": "No, the 40-48 credits for the Double Major must be separate and should not overlap with the 160-168 credits required for the B.Tech(Hons.)/ BS(Hons.) degree."
+            },
+            {
+                "question": "When can I apply for a Double Major?",
+                "answer": "Students can opt for a Double Major at the end of their 2nd semester. If there are vacant seats, applications may also be accepted at the end of the 3rd semester."
+            },
+            {
+                "question": "What are the eligibility criteria for a Double Major?",
+                "answer": "- A minimum CGPA of 7.0 without any backlog at the time of application.\n- Continuously maintaining a backlog-free status throughout the program.\n- Academic Units may also specify pre-requisites for Double Major."
+            },
+            {
+                "question": "Can I withdraw from the Double Major program?",
+                "answer": "Yes, students can withdraw from the Double Major program (after enrolling from Double Major) at any point of time."
+            },
+            {
+                "question": "Are there any pre-requisites for the Double Major?",
+                "answer": "Academic units may specify pre-requisite subjects. If these are from the 1st-year curriculum, the number of such pre-requisites will be limited to 1 or 2."
+            },
+            {
+                "question": "How will the Double Major be reflected in my transcript?",
+                "answer": "The transcript and the degree certificate will clearly state that any extra semester(s) taken to complete the course are not due to any backlog. It will be phrased as “B.Tech(Hons.)/BS(Hons.) in [PARENT ACADEMIC STREAM] and Major in [SECONDARY ACADEMIC STREAM] (with Specialization, if applicable in [SPECIALIZATION]).”"
+            },
+            {
+                "question": "What happens if I complete my primary degree requirements but not the Double Major requirements?",
+                "answer": "If you complete the requirements for the primary degree but not the Double Major, you will graduate with only the B.Tech(Hons.) / BS(Hons.) degree. However, if you have completed the requirements for a Minor in the process, you may be awarded a Minor instead of the Double Major.Otherwise the extra subjects registered and cleared under double major will be shown as Additional subjects with Additional CGPA."
+            },
+            {
+                "question": "How will subjects for the Double Major be scheduled?",
+                "answer": "The subjects for double major will be normally scheduled along with other regular subjects. The institute may consider reserving special timetable slots and offering summer courses to accommodate Double Major students."
+            }
+        ],
+        "switchover_dual_degree": [
+            {
+                "question": "Can I change my branch or program?",
+                "answer": "From the admission year 2024, there is no possibility of changing branch from one program to another. However, undergraduate students admitted through JEE Advanced from the Admission Year 2024 can earn a \"Double Major.\""
+            },
+            {
+                "question": "What are the options for switching over to Dual Degree programs?",
+                "answer": "Students admitted to the 4-year B.Tech.(Hons.) and BS (Hons.) through JEE (Advanced) are eligible for Switch Over to a Dual Degree Program in their parent department or in an interdisciplinary program such as:\n- Entrepreneurship\n- Financial Engineering\n- Artificial Intelligence & Machine Learning\n- Petroleum Engineering\n- Within their parent department"
+            },
+            {
+                "question": "How and when can I apply for a Switch Over?",
+                "answer": "Eligible students must apply:\n- For interdisciplinary programs, during the Spring Semester of their 2nd year or 3rd year, depending on the interdisciplinary Dual Degree program (see below for details).\n- For Dual Degree program within their parent department, during the Spring semester of their 3rd year.\n\nFor both cases, applications should be submitted online through ERP by the specified deadline."
+            },
+            {
+                "question": "What are the various interdisciplinary programs?",
+                "answer": "- B.Tech.(Hons.) in any Engineering/ B.S. (Hons.) in any Science Discipline and M.Tech. in Financial Engineering (5-year)- Inter-disciplinary\n- B.Tech.(Hons.) in any Engineering/ B.S. (Hons.) in any Science Discipline and M.Tech. in Engineering Entrepreneurship (5-year)- Inter-disciplinary\n- B.Tech.(Hons.) in any Engineering/ B.S. (Hons.) in any Science Discipline and M.Tech. in Artificial Intelligence & Machine Learning (5-year)- Inter-disciplinary\n- B.Tech.(Hons.) in Mechanical/Chemical/Mining Engineering OR B.S.(Hons.) in Geology/Geophysics and M.Tech. in Petroleum Engineering (5-year)-Trans-disciplinary"
+            },
+            {
+                "question": "What are the eligibility criteria for switching over to interdisciplinary programs?",
+                "answer": "Dual Degree Programs in Engineering Entrepreneurship, Financial Engineering (5-year):\n- Students must be at the end of their 2nd year.\n- Must have completed all prescribed coursework up to the 4th Semester in the first attempt with a minimum GPA of 6.00.\n- For Financial Engineering, the total student strength is increased to 60.\n- Allocation is made based on CGPA at the end of 2nd semester\n\nDual Degree in Artificial Intelligence and Machine Learning (AIML) (5-year):\n- Students must be at the end of their 3rd year.\n- Must have completed all prescribed coursework up to the 6th Semester in the first attempt with a minimum GPA of 6.00.\n- Selection is based on CGPA with initial allocation of 4 seats per participating department, followed by filling remaining seats based on CGPA irrespective of department.\n\nTransdisciplinary Petroleum Engineering (5-year):\n- Students from Mechanical Engineering, Chemical Engineering, Mining Engineering, and 4-year B.S in Geology/Geophysics can switch to M.Tech in Petroleum Engineering with B.Tech in the parent department.\n- Students can opt for this at the end of the 2nd year if there are vacant seats after the first-year allocation."
+            },
+            {
+                "question": "What are the eligibility criteria for switching over to a Dual Degree in the same department?",
+                "answer": "B.Tech.(Hons.) to M.Tech. Dual Degree & B.S. (Hons.) to MS Dual Degree Switch Over:\n- Third-year B.Tech.(Hons.)/B.S. (Hons.) students can switch to a 5-year Dual Degree course in the same department.\n- Must have completed all curricular requirements up to the 6th semester without any backlogs and a minimum CGPA of 6.00."
+            },
+            {
+                "question": "How can Dual Degree students choose their specialization?",
+                "answer": "- Third-year Dual Degree students in Agricultural and Food Engineering, Civil Engineering, Electrical Engineering, Electronics & Electrical Communication Engineering, Mechanical Engineering and Mathematics and Computing can choose their M.Tech. specialization.\n- Students can choose any approved specialization or, if the department limits seats per specialization, allocation will be based on choice and CGPA at the end of the 3rd year."
+            }
+        ],
+        "additional_credits": [
+            {
+                "question": "Who is eligible to take additional subjects from the third semester onwards?",
+                "answer": "Students with an appropriate Cumulative Grade Point Average (CGPA) and without any backlog are eligible to take additional subjects from the third semester onwards. This also includes 2-year MSc students."
+            },
+            {
+                "question": "How many additional credits can a student take?",
+                "answer": "Eligible students can take additional subjects to earn up to 33% of the credits required for their major."
+            },
+            {
+                "question": "Can additional subjects be from outside my discipline?",
+                "answer": "Yes, students can opt for additional subjects both within and outside their own discipline."
+            },
+            {
+                "question": "What are the conditions for registering for additional subjects?",
+                "answer": "Students can register for additional subjects only if they meet the prerequisites, there is no clash in the timetable, and the class size is within permissible limits."
+            },
+            {
+                "question": "Will the grades of additional subjects affect my CGPA?",
+                "answer": "No, the grades obtained in additional subjects will be recorded on the grade card, but the credits from these additional subjects will not contribute to the computation of the CGPA. However, it will be counted for the Double Major, if the student has registered for Double Major and the subjects fall under the Double Major curriculum."
+            },
+            {
+                "question": "How will the GPA for additional subjects be calculated?",
+                "answer": "The GPA for additional subjects is calculated separately and will be indicated on the grade card."
+            },
+            {
+                "question": "Can I drop an additional subject after registering?",
+                "answer": "Yes, a student can drop an additional subject before the mid-semester examination following the proper procedure. If not dropped properly, the subject will remain registered and will appear on the Grade Card even if an F grade is received."
+            },
+            {
+                "question": "Is there a supplementary examination for additional subjects?",
+                "answer": "No, there is no provision for a supplementary examination for additional subjects."
+            },
+            {
+                "question": "What happens if I fail an additional subject?",
+                "answer": "If a student fails an additional subject, they must retake it in the next semester it is offered. If the subject is not offered in the next semester, the student may choose an alternative additional subject."
+            },
+            {
+                "question": "Can I register for additional subjects if I have an EAA backlog?",
+                "answer": "Yes, students can register for additional subjects even if they have an EAA (Extra Academic Activities) backlog."
+            }
+        ],
+        "micro_credits": [
+            {
+                "question": "What are Micro-Credit courses?",
+                "answer": "Micro-Credit courses are one-credit courses lasting 3-14 days, offered during the semester or in available free slots. They can be held during evenings, weekdays, or weekends."
+            },
+            {
+                "question": "How are Micro-Credit courses graded and counted?",
+                "answer": "The grade obtained will be mentioned in the transcript/grade card and used to compute a separate CGPA (ACGPA). There are no supplementary exams for these courses. In case of failure, students must repeat the course if offered or take an alternative Micro-Credit course in the next semester."
+            },
+            {
+                "question": "How many Micro-Credit courses can I take?",
+                "answer": "Students are normally not expected to take more than 2 such courses in a semester. These courses may also count towards minor and micro-specialization requirements."
+            }
+        ],
+        "minor_in_discipline": [
+            {
+                "question": "What is a Minor in a discipline?",
+                "answer": "A Minor is an additional set of subjects offered by a department in which it already offers a major. It allows students to gain expertise in another area alongside their major."
+            },
+            {
+                "question": "How many subjects are required for a Minor?",
+                "answer": "A Minor requires students to take six or more subjects, amounting to 18-24 contact hours plus 3-9 hours of laboratory work. These subjects will be a mix of mostly core subjects and some electives."
+            },
+            {
+                "question": "When can students register for a Minor?",
+                "answer": "Students must register for a Minor at the beginning of their 5th semester."
+            },
+            {
+                "question": "What are the eligibility criteria to register for a Minor?",
+                "answer": "Students must have a CGPA of 7.0 or above without any backlog to register for a Minor. Additionally, they must maintain in subsequent semesters no backlog to keep the Minor registration active."
+            },
+            {
+                "question": "What is the minimum grade point average required to be awarded a Minor?",
+                "answer": "Students must score a minimum grade point average of 6.00 in all subjects that constitute the requirement for a Minor to be awarded the Minor in that discipline. The CGPA, however, should be maintained at a minimum of 8.0."
+            },
+            {
+                "question": "Are Dual Degree, Integrated M.Sc., and B.Arch. (Hons.) students allowed to pursue a Minor?",
+                "answer": "Yes, students enrolled in Dual Degree (B.Tech.-M.Tech.), B.Tech. (Hons.), B.S. (Hons.), B.S.-M.S. and B.Arch. (Hons.) programs can pursue a Minor in another discipline up to their 10th semester. B.Tech. (Hons.) & B.S. students should complete the Minor requirements by their 8th semester."
+            },
+            {
+                "question": "Can students register for a Minor if they have an EAA backlog?",
+                "answer": "Yes, students can register for a Minor even if they have an EAA (Extra Academic Activities) backlog."
+            }
+        ],
+        "micro_specialization": [
+            {
+                "question": "What is a Micro-Specialization?",
+                "answer": "A Micro-Specialization is a focused area of study within an undergraduate program, consisting of a sequence of courses and projects that provide specialized knowledge and skills."
+            },
+            {
+                "question": "What is the structure of a Micro-Specialization?",
+                "answer": "Each Micro-Specialization is structured into three sequential components:\n- *Component-I:* One Foundation Course (2-4 credits) that is mandatory and serves as a prerequisite for the subsequent components.\n- *Component-II:* One or two subjects (3-4 credits each) from a specified list.\n- *Component-III:* A Project/Design/Term Paper (4 credits) or one subject (4 credits) from a specified list."
+            },
+            {
+                "question": "How many subjects and credits are required to complete a Micro-Specialization?",
+                "answer": "Students must complete 3-4 subjects, amounting to 10-14 credits, from the specified list to earn a Micro-Specialization."
+            },
+            {
+                "question": "How can the subjects for a Micro-Specialization be taken?",
+                "answer": "The required subjects for a Micro-Specialization can be taken as Breadth/Open Electives or Additional Subjects. If specified in the Micro-Specialization curriculum, they can also be taken as Micro-Credits."
+            },
+            {
+                "question": "When can students register for a Micro-Specialization?",
+                "answer": "Students can register for a Micro-Specialization at the beginning of any semester beyond the first year."
+            },
+            {
+                "question": "What are the eligibility criteria for registering for a Micro-Specialization?",
+                "answer": "To register for a Micro-Specialization, students must have completed all curricular requirements up to the previous semester and have a CGPA of at least 7.0. After registering, they must not have any backlog to keep the registration active."
+            },
+            {
+                "question": "What is the minimum GPA required to earn a Micro-Specialization?",
+                "answer": "A minimum GPA of 6.00 is required for the subjects contributing to the Micro-Specialization to earn the Micro-Specialization."
+            },
+            {
+                "question": "Can students register for Micro-Specialization subjects if they have an EAA backlog?",
+                "answer": "Yes, students can register for Micro-Specialization subjects even if they have an EAA (Extra Academic Activities) backlog (Senate Item 322.H.I.C.6)."
+            }
+        ],
+        "semester_away_program_sap": [
+            {
+                "question": "What is the Semester Away Program (SAP)?",
+                "answer": "The SAP allows students of 4-year B.Tech. (Hons.) and B.S. (Hons.) programs to pursue a full-semester internship in the 7th semester, either in India or abroad, in corporate/industrial sectors, research organizations, or academic institutes."
+            },
+            {
+                "question": "When can students avail the SAP?",
+                "answer": "Students avail the SAP in their 7th semester. However, they have to apply for the same in ERP in the 6th semester with all details and documents."
+            },
+            {
+                "question": "How many credits is the SAP equivalent to?",
+                "answer": "The SAP is equivalent to the corresponding credits of 7th semester."
+            },
+            {
+                "question": "What happens to BTP-1 if a student opts for the SAP?",
+                "answer": "Students who avail of the SAP can register directly for BTP-II without doing BTP-I. However, it will be termed as BTP."
+            },
+            {
+                "question": "Can the SAP be carried out internationally?",
+                "answer": "Yes, the SAP can be pursued either in India or abroad."
+            },
+            {
+                "question": "What kinds of organizations can students intern with during the SAP?",
+                "answer": "Students can intern with corporate/industrial sectors, research organizations, or academic institutes."
+            },
+            {
+                "question": "What if a student decides to switch to a dual degree program after opting for SAP?",
+                "answer": "Students who switch to a dual degree program after opting for SAP will be withdrawn from SAP. Students need to register for all 7th-semester courses of the dual degree program but can apply for the Semester Away Project Program (SAPP) if they meet the eligibility norms."
+            },
+            {
+                "question": "What happens if a student withdraws from SAP?",
+                "answer": "A: Students who withdraw from SAIP will be treated under the program without SAP. Students must register for all 7th-semester courses of the UG program without SAP."
+            },
+            {
+                "question": "What if a student’s performance in SAP is unsatisfactory?",
+                "answer": "Students with unsatisfactory performance in SAP will be treated like those without SAP. In this case, the students must complete all 7th-semester courses of the regular program without SAP, which may require extra semesters depending on the courses needed for graduation."
+            },
+            {
+                "question": "How is the final evaluation for SAP conducted?",
+                "answer": "A: The performance in SAP will be evaluated by the host supervisor, who will directly send the grades to the department and will be indicated in the 7th-semester transcript. However, at the end of the SAP, the student has to submit a copy of the internship report certified by the host supervisor in the department."
+            },
+            {
+                "question": "Are there any additional fees for participating in SAP?",
+                "answer": "A student selected for SAP will pay the appropriate semester registration fees as decided by the competent authority."
+            },
+            {
+                "question": "How are disciplinary issues handled during SAP?",
+                "answer": "Disciplinary issues arising while the student is away from the campus will be handled as per the institute’s and host institute’s rules and regulations."
+            },
+            {
+                "question": "Can SAP be a continuation of the mandatory 8-week summer internship?",
+                "answer": "Yes, SAP can be a continuation of the mandatory 8-week summer internship that students undertake after completing the 6th semester. The grades for the Summer Internship and the SAP must be submitted separately by the concerned host supervisor."
+            }
+        ],
+        "semester_away_project_program_sapp": [
+            {
+                "question": "What is the Semester Away Project Program (SAPP)?",
+                "answer": "The SAPP allows students of 5-year Dual Degree B.Tech.-M.Tech./B.S.-M.S. programs to pursue a full-semester project in their 9th semester, either in India or abroad, in corporate/industrial sectors, research organizations, or academic institutes."
+            },
+            {
+                "question": "When can students avail the SAPP?",
+                "answer": "Students avail the SAPP in their 9th semester. However, they have to apply for the same in ERP in the 8th semester with all details and documents."
+            },
+            {
+                "question": "How many credits is the SAPP equivalent to?",
+                "answer": "The SAPP is equivalent to entire 9th semester credit of the respective programme."
+            },
+            {
+                "question": "Can the SAPP be carried out internationally?",
+                "answer": "Yes, the SAPP can be pursued either in India or abroad, subject to approval of the competent authority."
+            },
+            {
+                "question": "What kinds of organizations can students work with during the SAPP?",
+                "answer": "Students can work with corporate/industrial sectors, research organizations, or academic institutes during the SAPP."
+            },
+            {
+                "question": "What happens if a student initially opts for SAPP but later decides to withdraw?",
+                "answer": "Students who initially opt for SAPP but later withdraw will be treated under the regular program without SAPP. They must complete all 9th semester courses of the regular program without SAPP, which may require additional semesters to graduate."
+            },
+            {
+                "question": "What happens if a student's performance in SAPP is found to be unsatisfactory?",
+                "answer": "If a student's performance in SAPP is unsatisfactory, they will be treated on par with students without SAPP. They must complete all 9th semester courses of the regular program without SAPP, which may require additional semesters to graduate."
+            },
+            {
+                "question": "How is the final evaluation conducted for SAPP?",
+                "answer": "The final evaluation for SAPP is conducted by the PG academic committee of the concerned Academic unit (IIT Kharagpur) by the 1st week of December through an in-person viva voce. Before that, the student must submit a final report duly certified by the institute and host supervisors. A suitable grade will be awarded for SAPP, considering the report, supervisors' (IIT and host) assessment, and performance in viva voce. The grade will be indicated in the transcript under semester 9."
+            },
+            {
+                "question": "Will there be mid-semester evaluations for SAPP?",
+                "answer": "Depending on requirements, the department may conduct mid-semester evaluations using an appropriate mode."
+            },
+            {
+                "question": "Are there additional fees for participating in SAPP?",
+                "answer": "Yes, students selected for SAPP will pay the appropriate semester registration fees as decided by the competent authority."
+            },
+            {
+                "question": "How are disciplinary issues handled during SAPP?",
+                "answer": "Any disciplinary issues that arise while the student is away from campus will be handled according to the institute's and host institute's regulations."
+            },
+            {
+                "question": "Can SAPP be a continuation of the mandatory 8-week summer internship?",
+                "answer": "SAPP can potentially be a continuation of the mandatory 8-week summer internship; which students undertake after the completion of the 8th semester. However, there should be no commitment from either the student or the host for clubbing the mandatory internship with SAPP at the beginning, considering the approval process uncertainties. Also, separate evaluations must be carried out for the summer internship and SAPP, with corresponding separate grade submissions."
+            }
+        ]
+    }
+}

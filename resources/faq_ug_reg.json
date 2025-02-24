@@ -1,0 +1,180 @@
+{
+    "Subject Registration FAQs": {
+        "ELECTIVES": [
+            {
+                "query": "I want to take an Elective Subject other than those shown in the LOV. Is this possible? If so how can this be done?",
+                "reply": "This is normally not allowed. However, in cases where there is proper justification and the faculty advisor is convinced then the student can apply for the subject through the faculty advisor’s ERP login. A template is generated where hard copy signatures are essential with the final approval from Dean. After the Dean’s approval, Academic Section enables the subject for registration in the student’s elective list. ERP Procedure is described on Page 6 of the manual https://erp.iitkgp.ernet.in/SubRegGuideline.pdf [1]."
+            },
+            {
+                "query": "There is an Open/Flexible Elective in my curriculum in the current semester. Can I opt for a subject from another Department/Center/School against this Elective?",
+                "reply": "There are two Open /Flexible Electives(I&II) in the B.Tech. B.Arch. and Int.M.Sc. curriculum. In the slot of open elective I, only students who have registered for a minor or a micro-specialization are allowed to opt for subjects that constitute a requirement for the minor/ Micro-specialization. The students who do not fall in the above category (who have not registered for a minor or micro-specialization) have to opt for subjects only from the list of Senate approved Electives [2]. In the slot of open elective II, students having CGPA ≥ 8.0 will be allowed to register for any subject from any Department. The students registered for a minor or micro-specialization can also utilize this slot in opting for a subject that constitutes a requirement for the minor or micro-specialization. The other students who do not fall in this category have to opt for subjects only from the list of Senate approved Electives [3]. Detailed Online procedure is outlined in Pages 7-9 of the manual https://erp.iitkgp.ernet.in/SubRegGuideline.pdf [4]."
+            },
+            {
+                "query": "I have a Backlog in an Elective Subject. Can I change the subject?",
+                "reply": "Yes you can change the Elective, provided it is contained in the list of Electives for the corresponding backlog semester [4]."
+            },
+            {
+                "query": "I have Backlog in the Spring Semester and would like to register for an Autumn Semester Elective in the current semester",
+                "reply": "This is possible if there is a single consolidated list of Electives for both Spring and Autumn. With the permission the Faculty Advisor & Head you can take a Spring Semester Elective in lieu of Autumn, if you are in the final year and likely to graduate in the current session [5]."
+            }
+        ],
+        "BREADTHS": [
+            {
+                "query": "I have been randomly allotted a HSS /Management breadth. I wish to change the subject.",
+                "reply": "Random allocation has been done because you did not exercise your options for HSS/Management breadth. Changes to the allocations made are strongly discouraged. However, you can register for the HSS/Management subjects where seats are still available. Alternately you can also apply online to the subject teacher on ERP for a particular subject. The status of your request can be monitored online. Once approved, the subject will be available for Registration [6, 7]. Procedure is described on Page 7-9 of the manual https://erp.iitkgp.ernet.in/SubRegGuideline.pdf [7]."
+            },
+            {
+                "query": "I have obtained a branch change. My new branch has a HSS Breadth, while the previous one did not. How can I obtain a HSS subject of my choice.",
+                "reply": "You can apply online for the HSS subject/s of your choice. You can opt/ apply even for those subjects where seats are full. As mentioned above, the status of your request can be monitored. Upon the teacher’s approval you can register for a subject of your choice [7, 8]."
+            },
+            {
+                "query": "I have not been allotted a Professional Breadth. The Breadth so allotted is not to my liking, I wish to change the subject.",
+                "reply": "Students in both categories can apply for subjects of their choice on ERP. In applying for a Professional Breadth you are not confined to list of breadth subjects displayed on ERP. You are free to opt for any subject, including departmental electives as your breadth provided you satisfy the pre-requisites and the concerned subject teacher has accepted your request to join the course [8]."
+            },
+            {
+                "query": "I have a Backlog in a Breadth subject. I want to pursue a different subject",
+                "reply": "Sure, you can change the subject. HSS/Management Breadths must be chosen from the respective list. The ERP Procedure in outlined on Pages 7-9 in the ERP Manual [9]."
+            },
+            {
+                "query": "I have Backlog in a Breadth of Spring Semester and would like to register for the same in Autumn Semester",
+                "reply": "This is possible. You can even change the Breadth. However HSS/Management subjects must be chosen from the specified list. For the Professional Breadth you are not confined to the list but can opt for any subject online and register for the same subject to teacher’s approval [9, 10]."
+            },
+            {
+                "query": "I have a Backlog in a first year subject. Should I register for the subject in the same section as that allotted in the First Year?",
+                "reply": "No. You can pick a section of your choice depending on the time table slot of the other subjects. The procedure is described in Page 15 of the manual https://erp.iitkgp.ernet.in/SubRegGuideline.pdf [10]."
+            }
+        ],
+        "ADDITIONAL": [
+            {
+                "query": "What is an Additional Subject?",
+                "reply": "As the name indicates this subject is over and above the major requirement of a particular discipline. Additional subjects can be taken from the 3rd semester onwards. The GPA of the Additional subjects is computed separately [11]."
+            },
+            {
+                "query": "What are the requirements to be satisfied for taking an additional subject?",
+                "reply": "To register for an additional subject you should have completed all the curricular requirements (including EAA) up-to the preceding semester and have a CGPA greater than or equal to 7.5 [11, 12]."
+            },
+            {
+                "query": "Should the Additional Subject be a part of the Minor or the Micro-specialization curriculum?",
+                "reply": "No this need not be. A student can register for any subject (outside his/her major requirement) as an Additional subject, if eligible [12]."
+            },
+            {
+                "query": "I have registered for an Additional Subject but I find the going tough and I want to drop the subject. Can I do that?",
+                "reply": "Yes, you can drop the subject by giving a letter in writing to Dean(UGS) through your Faculty Advisor and HOD within 3(three) weeks from the commencement of the semester; otherwise the subject will remain registered and the subject will be mandatorily reflected on the Grade Card with F grade [12, 13]."
+            },
+            {
+                "query": "How many additional subjects can I take in a semester?",
+                "reply": "The limiting criteria is not defined in the Regulations. However, total additional credits taken should not exceed to 33% of credit requirement for major [13]."
+            },
+            {
+                "query": "What will happen if I fail or get de-registered in an in additional subject?",
+                "reply": "The subject will be mandatorily reflected on the Grade Card with F grade for failure and X grade for De-registration. There is no scope for a supplementary and you will not be given a second chance to clear the subject as Additional [13, 14]."
+            }
+        ],
+        "IMPROVEMENT": [
+            {
+                "query": "What is an Improvement Registration?",
+                "reply": "Re-registering in a subject to improve the grade is an Improvement Registration. The students can register only in those subjects where a ‘P’ grade has been obtained towards improvement [14]."
+            },
+            {
+                "query": "When can I take an Improvement Subject?",
+                "reply": "Registration towards Improvement is allowed only for the following cases: 1. The student has completed all the curricular requirements or graduation requirements but has a CGPA < 6 2. A student who is repeating an year of study [14, 15]."
+            },
+            {
+                "query": "Can I register for a another Breadth/Elective where I got a P grade towards improvement.",
+                "reply": "A student can change his Elective/Breadth subject while taking an improvement. However, the subjects must preferably have the same credit load. The subject and the grade will be replace the old subject in the grade card only if the grade is better than ‘P’ [15]."
+            },
+            {
+                "query": "How many improvement subjects can I register?",
+                "reply": "You must discuss this with your faculty advisor and take subjects so that you are not overloaded. If you have completed your graduation requirements and CGPA < 6.00 you must register for adequate number of ‘P’ grade subjects so that the chances of your CGPA enhancement to 6 are good. Students belonging to Category-2 of Academically Weak Students may please note that the number of subjects allowed for registration as per the changed regulation includes improvement subjects as well [15, 16]."
+            },
+            {
+                "query": "Can I register for a Lab subject towards Improvement?",
+                "reply": "Yes , you can register for a Laboratory subject in which you have obtained a ‘P’ grade for improvement [16, 17]."
+            }
+        ],
+        "NORMAL WITH NO BACKLOGS": [
+            {
+                "query": "With a CGPA of 7.3, is it possible to register for an Additional Subject ?",
+                "reply": "No. In order to register for an Additional Subject CGPA >=7.5 is essential [17]."
+            },
+            {
+                "query": "I had Registered for a Minor and have also completed two additional subjects in the Minor Discipline but both my SGPA and CGPA have fallen below 8.0. Will I still be eligible for Minor.",
+                "reply": "The Academic Criteria for Minor to be active requires either the SGPA or CGPA to be >=8.0 in the all the semesters subsequent to Minor registration. If both the SGPA and CGPA have fall below 8.0 at any point of time, the Minor ceases to be active and can not be re-activated later semesters, if the SGPA or CGPA goes above 8.0 [17, 18]."
+            },
+            {
+                "query": "I have completed all the requirements for a Minor through Additional and Elective Subjects. However, I do not meet the Academic Criteria of having either CGPA or SGPA above 8.0 in all semesters following Minor Registration, can I still be considered for the award of a Minor.",
+                "reply": "No. Mere completion of the Minor curricular requirement is not sufficient, fulfilling the Academic Criteria for the Major Requirement (SGPA or CGPA) is essential [18, 19]."
+            },
+            {
+                "query": "I have registered for a Micro-Specialization. I have already covered one of the subjects in Component A as a core requirement. Can I straightaway proceed to Component B.",
+                "reply": "Only Additional / Breadth / Open Elective components count towards the Micro-Specialization. The Components must be taken and cleared in a sequential manner [19, 20]."
+            },
+            {
+                "query": "I Registered for a Micro-Specialization and have also completed the first component. But both my SGPA and CGPA have fallen below 7.5. Will I still be eligible for Micro-Specialization.",
+                "reply": "The Academic Criteria for Micro-Specialization to be active requires either the SGPA or CGPA to be >=7.5 in the all the semesters subsequent to Micro-Specialization registration. If both the SGPA and CGPA have fall below 7.5 at Micro-Specialization registration ceases to be active and can not be re-activated later semesters, if the SGPA or CGPA goes above 7.5 [20, 21]."
+            },
+            {
+                "query": "I want to register for two Micro-Specializations. Is that possible.",
+                "reply": "Yes you can register for two Micro-Specilisations at a time or at different points of time, subject to fulfilling the Academic criteria [21]."
+            }
+        ],
+        "NORMAL WITH ONLY EAA BACKLOGS": [
+            {
+                "query": "I have a CGPA in excess of 8.0, but I have not cleared an EAA component, can I register for an Additional Subject. What will happen to my Micro-Specilisation Registration.",
+                "reply": "While you will be allowed to Register for the prescribed credit requirement of the semester, you will not be permitted to Register for Additional Subjects or Register for Minor or a Micro-Specilisation. Minor and Micro-specialisations will cease to be active and can not be activated later [21, 22]."
+            },
+            {
+                "query": "I have two EAA Backlogs. Can I do a concurrent Registration of the two EAAs.",
+                "reply": "No. A student can Register for only one EAA component at a time [22]."
+            },
+            {
+                "query": "I have a Backlog in EAA component of first year. I am likely to complete all the curricular requirements of second year. Will I be detained in second year due to non-clearance of first year EAA.",
+                "reply": "EAA has now been de-linked with the promotion policy. You will not be detained at second year level, if EAA is the only constraining factor. However, you must register for Backlog EAA/s at the first available opportunity. Clearing the EAA component is mandatory in order to obtain the degree [22, 23]."
+            },
+            {
+                "query": "I have a Backlog in only one EAA. What will happen to my MCM scholarship?",
+                "reply": "As far as prize /medals/awards/scholarships are concerned EAA is treated on par with other subjects. You will thus not be eligible for the scholarship [23, 24]."
+            },
+            {
+                "query": "With an EAA backlog can I a) switch over from B.Tech.(Hons.) to the Dual Degree Program? b) be considered for Branch Change c) Switch over to interdisciplinary Dual Degree Program",
+                "reply": "No. Students with EAA Backlog will not be considered a) for switch over to Dual Degree Program b) Not be eligible for Branch Change or switch over to Interdisciplinary Dual Degree Program [24, 25]."
+            }
+        ],
+        "BACKLOGS NOT IN ACADEMIC WEAK CATEGORY": [
+            {
+                "query": "I have only one Backlog can I register for all prescribed credits of the Semester?",
+                "reply": "Yes, Students with one Backlog – Can Register for the prescribed semester loading with the Backlog subject [25]."
+            },
+            {
+                "query": "I am a non-final year student with two Backlogs. Along with the prescribed credit loading of the semester, the total credits exceeds 28 with the two backlogs. What should I do?",
+                "reply": "You have the following options: First Register for the Backlog subjects. 1) If Electives/Breadths are a part of the curriculum of the current semester then try taking 3 credit subjects to adjust the overall limit. 2) Defer the Registration of Electives/ Breadths (if any) of the current semester to the subsequent semester to adjust the upper credit limit to 28. 3) If there are no Electives/Breadths of the current semester you have to drop a core subject in consultation with your faculty advisor to adjust the limit to 28 [25, 26]."
+            },
+            {
+                "query": "I have two Backlogs. One is an Elective and the other is a Breadth. Can I register for the Breadth in the next semester ?",
+                "reply": "Yes you can register for the Breadth in the next semester. But be careful not to acquire any more backlogs as this may change your Academic status and limit the Registration. If it is possible to register for the two Backlogs with in the 28 credit limit (with out a time table clash) then in your own interest, it better to register and clear the Backlogs [26, 27]."
+            },
+            {
+                "query": "I am in the fourth year of Dual Degree Program. I have two Backlogs. One is an Elective and the other is a Project-1(BTP). When I do a concurrent Project Registration the credit limit exceeds 28. What should I do?",
+                "reply": "In this case, you can do a concurrent project registration even though the credit limit exceeds 28. However you will get one grade lower than the earned grade in the first project [27, 28]."
+            }
+        ],
+        "ACADEMICALLY WEAK CATEGORY": [
+            {
+                "query": "In the category-I, will a Project Failure be counted as Backlog and considered as a subject while compiling the Academically Weak Students.",
+                "reply": "Yes, a failure in project will be counted as a Backlog. For example, if you have two backlogs of 6th semester and have failed in BTP-1, your overall backlog count is 3. You therefore fall under the Academically Weak category [28, 29]."
+            },
+            {
+                "query": "Are Un-registered Subjects counted as Backlogs?",
+                "reply": "Yes, Un-registered Subjects are reckoned as Backlogs [29]."
+            },
+            {
+                "query": "Under the Category-I, is it possible to do a concurrent project Registration?",
+                "reply": "Yes you can do a concurrent project registration, provided it is with in the credit limit of 28 [29, 30]."
+            },
+            {
+                "query": "I belong to Category-II, I want to register for Improvement subjects. Do the number of theory and lab subjects specified include the improvement subjects as well.",
+                "reply": "Yes, the number and type of subjects is inclusive of improvement subjects as well [30]."
+            }
+        ]
+    }
+}

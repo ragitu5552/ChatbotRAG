@@ -1,3 +1,6 @@
 .env
 *.pdf
-vectorstore.json
+*.txt
+food_review/
+text_files/
+tsg_faqs.json
