@@ -3,4 +3,6 @@
 *.txt
 food_review/
 text_files/
+resources/
 tsg_faqs.json
+metakgp_all_pages.json
